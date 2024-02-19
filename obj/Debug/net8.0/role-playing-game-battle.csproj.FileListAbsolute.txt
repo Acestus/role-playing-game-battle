@@ -1,0 +1,15 @@
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\obj\Debug\net8.0\role-playing-game-battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\obj\Debug\net8.0\role-playing-game-battle.AssemblyInfoInputs.cache
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\obj\Debug\net8.0\role-playing-game-battle.AssemblyInfo.cs
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\obj\Debug\net8.0\role-playing-game-battle.csproj.CoreCompileInputs.cache
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\obj\Debug\net8.0\role-playing-game-battle.sourcelink.json
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\bin\Debug\net8.0\role-playing-game-battle.exe
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\bin\Debug\net8.0\role-playing-game-battle.deps.json
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\bin\Debug\net8.0\role-playing-game-battle.runtimeconfig.json
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\bin\Debug\net8.0\role-playing-game-battle.dll
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\bin\Debug\net8.0\role-playing-game-battle.pdb
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\obj\Debug\net8.0\role-playing-game-battle.dll
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\obj\Debug\net8.0\refint\role-playing-game-battle.dll
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\obj\Debug\net8.0\role-playing-game-battle.pdb
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\obj\Debug\net8.0\role-playing-game-battle.genruntimeconfig.cache
+C:\Users\wbalconi\git\free-code-camp\role-playing-game-battle\obj\Debug\net8.0\ref\role-playing-game-battle.dll
